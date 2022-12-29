@@ -4,3 +4,6 @@ text one
 
 text two - new modification
 
+text to be deleted
+
+
