@@ -1,0 +1,15 @@
+C:\Users\brlop\source\repos\binarySearch\binarySearch\bin\Debug\net6.0\binarySearch.exe
+C:\Users\brlop\source\repos\binarySearch\binarySearch\bin\Debug\net6.0\binarySearch.deps.json
+C:\Users\brlop\source\repos\binarySearch\binarySearch\bin\Debug\net6.0\binarySearch.runtimeconfig.json
+C:\Users\brlop\source\repos\binarySearch\binarySearch\bin\Debug\net6.0\binarySearch.dll
+C:\Users\brlop\source\repos\binarySearch\binarySearch\bin\Debug\net6.0\binarySearch.pdb
+C:\Users\brlop\source\repos\binarySearch\binarySearch\obj\Debug\net6.0\binarySearch.csproj.AssemblyReference.cache
+C:\Users\brlop\source\repos\binarySearch\binarySearch\obj\Debug\net6.0\binarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brlop\source\repos\binarySearch\binarySearch\obj\Debug\net6.0\binarySearch.AssemblyInfoInputs.cache
+C:\Users\brlop\source\repos\binarySearch\binarySearch\obj\Debug\net6.0\binarySearch.AssemblyInfo.cs
+C:\Users\brlop\source\repos\binarySearch\binarySearch\obj\Debug\net6.0\binarySearch.csproj.CoreCompileInputs.cache
+C:\Users\brlop\source\repos\binarySearch\binarySearch\obj\Debug\net6.0\binarySearch.dll
+C:\Users\brlop\source\repos\binarySearch\binarySearch\obj\Debug\net6.0\refint\binarySearch.dll
+C:\Users\brlop\source\repos\binarySearch\binarySearch\obj\Debug\net6.0\binarySearch.pdb
+C:\Users\brlop\source\repos\binarySearch\binarySearch\obj\Debug\net6.0\binarySearch.genruntimeconfig.cache
+C:\Users\brlop\source\repos\binarySearch\binarySearch\obj\Debug\net6.0\ref\binarySearch.dll
